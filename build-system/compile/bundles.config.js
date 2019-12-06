@@ -494,6 +494,12 @@ exports.extensionBundles = [
     type: TYPES.MISC,
   },
   {
+    name: 'amp-getsocial',
+    version: '0.1',
+    latestVersion: '0.1',
+    type: TYPES.MISC,
+  },
+  {
     name: 'amp-google-document-embed',
     version: '0.1',
     latestVersion: '0.1',
